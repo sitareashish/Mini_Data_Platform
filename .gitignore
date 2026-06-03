@@ -1,0 +1,6 @@
+minidb
+minidb_tests
+*.o
+*.dSYM
+/tmp/
+.DS_Store
